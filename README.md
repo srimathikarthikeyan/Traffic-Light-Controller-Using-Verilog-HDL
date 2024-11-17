@@ -1,4 +1,4 @@
-# Traffic-Light-Controller-Using-Verilog-HDL
+# TRAFFIC LIGHT CONTROLLER USING VERILOG HDL
 # Aim
 To design and simulate a traffic light controller using Verilog HDL, and verify its functionality through a testbench in the Vivado 2023.1 simulation environment. The objective is to control the traffic lights for a junction with a specific time-based sequence for Red, Yellow, and Green lights.
 
@@ -31,8 +31,6 @@ Save and Document Results:
 Capture screenshots of the waveform and save the simulation logs to include in your report.
 
 # Verilog Code for Traffic Light Controller
-
-
 
     // traffic_light_controller.v
     module traffic_light_controller (
